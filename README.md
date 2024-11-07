@@ -32,4 +32,4 @@ You can run the project locally to see the sorting visualizer in action.
 
 You can try the Sorting Visualizer live by clicking the link below:
 
-Sorting Visualizer - Live Demo
+Sorting Visualizer - [Live Demo](https://quirky-allen-a338ee.netlify.app/)
