@@ -25,3 +25,11 @@ You can run the project locally to see the sorting visualizer in action.
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/sorting-visualizer.git
+
+2. Open index.html in your browser to run the visualizer locally.
+
+## Live Demo
+
+You can try the Sorting Visualizer live by clicking the link below:
+
+Sorting Visualizer - [Live Demo](https://quirky-allen-a338ee.netlify.app/)
